@@ -1,16 +1,22 @@
-## Hi there 👋
+Hola!, soy Geisi Montero 👩🏽‍💻
 
-<!--
-**geisi-montero/Geisi-Montero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy una desarrolladora apasionada por la tecnología y por transformar ideas en soluciones reales. Me gusta aprender constantemente, experimentar con nuevas herramientas y crear proyectos que me permitan mejorar mis habilidades. Disfruto innovar y construir cosas nuevas a través del código, mientras continúo fortaleciendo mis conocimientos en programación, desarrollo web y bases de datos.
 
-Here are some ideas to get you started:
+💻 Lenguajes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+- SQL
+- HTML
+- CSS
+- JavaScript
+  
+🛠 Tecnologías y herramientas
+
+- Visual Studio
+- Visual Studio Code
+- SQL Server
+
+📫 Conéctate conmigo
+
+- [Correo](geisilisbeth12@gmail.com )
+- [LinKedln](www.linkedin.com/in/geisi-familia-montero)
