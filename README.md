@@ -19,5 +19,5 @@ Desarrolladora apasionada por la tecnología y la transformación de ideas en so
 ---
 # 📫 Conéctate conmigo
 
-- [Correo](geisilisbeth12@gmail.com )
-- [LinKedln](www.linkedin.com/in/geisi-familia-montero)
+- [Correo](mailto:geisilisbeth12@gmail.com )
+- [LinKedln](https://www.linkedin.com/in/geisi-familia-montero)
