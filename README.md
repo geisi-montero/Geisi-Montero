@@ -1,6 +1,6 @@
 # Hola!, soy Geisi Montero 👩🏽‍💻
 
-Soy una desarrolladora apasionada por la tecnología y la transformación de ideas en soluciones reales. Me gusta aprender constantemente, experimentar con nuevas herramientas y crear proyectos que permitan mejorar mis habilidades. Disfruto innovar y construir cosas nuevas a través del código, mientras fortalezco mis conocimientos en programación, desarrollo web y bases de datos.
+Soy una desarrolladora apasionada por la tecnología y por transformar ideas en soluciones reales. Me gusta aprender constantemente, experimentar con nuevas herramientas y crear proyectos que me permitan mejorar mis habilidades. Disfruto innovar y construir cosas nuevas a través del código, mientras continúo fortaleciendo mis conocimientos en programación, desarrollo web y bases de datos.
 
 ---
 # 💻 Lenguajes
